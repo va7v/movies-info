@@ -1,9 +1,9 @@
 - название: КиноСёрф
 - функциональности и список экранов:
-Поиск по критериям;
-Список самых популярных фильмов;
-Список выбраных;
-Информация о фильме (по клику на фильм в предыдущих экранах);
-Информация о актерах;
+Новинки;
+Популярные фильмы;
+Популярные сериалы;
+Информация о фильме (по клику на фильм в новинках и популярные);
+Информация о сериале (по клику);
 - стек технологий:
-Navigation Component, MVVM на Android Architecure Components, Kotlin Coroutines, Retrofit, Moshi, ROOM, Dagger2 
+Navigation Component, MVVM на Android Architecure Components, Kotlin Coroutines, Flow, Retrofit, GsonConverter, Paging
